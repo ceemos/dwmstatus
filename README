@@ -1,0 +1,13 @@
+Status line for dwm with
+
+- Time
+- Battery charge and consumption (might not work evrywhere)
+- CPU load
+- CPU frequency 
+- network load when network is in use
+
+Looks like (idle): 
+ | 0.80 | 0% 0% | 77% 8.41W | Thu Aug 22 11:25:02
+
+or (with load):
+wlan0: 236.32 kB/s rx, 7.16 kB/s tx  | 1.60 | 52% 54% | 77% 8.52W | Thu Aug 22 11:25:15
