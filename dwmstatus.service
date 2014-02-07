@@ -1,0 +1,8 @@
+[Unit]
+Description=Dwmstatus to file
+
+[Service]
+ExecStart=/usr/bin/dwmstatus-file
+
+[Install]
+WantedBy=multi-user.target
